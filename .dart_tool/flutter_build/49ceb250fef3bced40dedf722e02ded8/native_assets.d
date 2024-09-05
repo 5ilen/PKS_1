@@ -1,0 +1,1 @@
+ C:\\UniWorks\\mobile_test_app\\flutter_application_1\\.dart_tool\\flutter_build\\49ceb250fef3bced40dedf722e02ded8\\native_assets.yaml: 
